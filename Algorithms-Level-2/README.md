@@ -1,25 +1,46 @@
 # 🚀 CPP-Mastery-Journey
 
-Welcome to my professional repository! This space tracks my progress in mastering *C++* and *Problem Solving, following the structured roadmap of **Dr. Mohammed Abu-Hadhoud*.
-
-## 📂 Current Focus: Algorithms Level 2
-This folder contains my solutions to the 50 logic problems. These problems are the foundation of my transition from basics to advanced programming.
-
-### 🛠️ Projects in this Journey:
-* 📁 *Algorithms-Level2*: My logic building progress (Current: 4/50).
-* 📁 *Small-Projects*: 
-    * 🎮 *Rock-Paper-Scissors*: My first integrated project (Starting Now! 🏗️).
-    * 🧮 *Math Game*: My upcoming challenge.
-
-## 🎓 Learning Status
-- [x] Completed Courses 1 to 4.
-- [x] Completed Course 5 (Algorithms Level 2).
-- [ ] Working on the first project (Rock Paper Scissors).
-
-## 🌍 Language & Tools
-- *Language*: C++
-- *Platform*: VS Code & GitHub
-- *Goal*: To become a professional Backend Developer in Mauritania 🇲🇷.
+Welcome to my programming journey repository!
+This space tracks my progress in mastering C++ 
+and Problem Solving, following the roadmap of 
+Dr. Mohammed Abu-Hadhoud.
 
 ---
-"The best way to predict the future is to create it."
+
+## 📂 Current Focus: Algorithms Level 2
+
+This folder contains my solutions to 50 logic problems.
+These problems build the foundation for advanced programming.
+
+---
+
+## 🛠️ Projects
+
+### 📁 Algorithms-Level2
+Logic building and problem solving progress.
+
+### 📁 Small-Projects
+- 🎮 Rock-Paper-Scissors — First integrated project ✅
+- 🧮 Math Game — Completed ✅
+
+---
+
+## 🎓 Learning Progress
+
+- ✅ Completed Courses 1 to 5
+- ✅ Completed Algorithms Level 2
+- ✅ Completed C++ Level 2
+- 🔄 Currently: Algorithms Level 3 (Course 7)
+
+---
+
+## 🌍 Tools & Goals
+
+- **Language:** C++
+- **Platform:** VS Code & GitHub
+- **Goal:** Backend Developer 🇲🇷
+
+---
+
+> "You don't become a programmer by learning more
+>  — you become one by practicing more."
