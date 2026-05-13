@@ -1,13 +1,17 @@
-# Problem [NUMBER] - [TITLE]
+# Problem 07 - Transpose Matrix
 
 ## Description:
-[Write a brief description of the problem here]
+Fill a 3x3 matrix with ordered numbers and print it.
+
+Then Transpose the matix using another matrix and print it.
 
 ## Concepts Used:
-- [Concept 1]
-- [Concept 2]
-- [Concept 3]
+- 2D arrays
+- Nested for loops
+- Functions
 
 ## Notes:
-- [Note 1]
-- [Note 2]
+- This problem helped me understand matrix transposition.
+
+- It was a new concept and i took me a few minutes to think about how i could
+Solve it.
