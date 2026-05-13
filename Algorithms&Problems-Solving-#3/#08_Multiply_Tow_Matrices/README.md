@@ -1,17 +1,20 @@
-# Problem [NUMBER] - [TITLE]
+# Problem 08 - Multiply Two Matrices
 
 ## Description:
-[Write a brief description of the problem here]
+Fill two 3x3 matrices with random numbers and print them.
+
+Then multiply the two matrices and store the result in a third matrix.
 
 ## Concepts Used:
-- [Concept 1]
-- [Concept 2]
-- [Concept 3]
+- 2D arrays
+- Nested for loops
+- Random number generation
+- Functions
 
 ## Notes:
-- [Note 1]
-- [Note 2]
+- In this problem, I learned how to multiply two matrices and store each result in another matrix.
 
-## Diference Between Solutions:
-- [Difirence 1]
-- [Diference 2]
+## Difference Between Solutions:
+- In the first solution, I used separate functions like PrintMultiplyMatrices and FillMatrixWithRandomNumbers.
+
+- In the second solution, I used a single function called MultiplyMatrix instead of multiple functions, which made the code simpler and cleaner.
